@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# VS Code
+.vscode/
+
+# Database
+database/
+
+# Streamlit cache
+.streamlit/
+
+# Data (optional)
+data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
