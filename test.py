@@ -42,6 +42,10 @@ with st.sidebar:
 
     st.write("Phase 1")
 
+    st.write("Module 1")
+
+    st.write("Milestone 2")
+
     st.divider()
 
     uploaded_files = st.file_uploader(

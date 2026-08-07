@@ -20,3 +20,7 @@ data/processed/
 # OS
 .DS_Store
 Thumbs.db
+
+# API keys and credentials
+.env
+
